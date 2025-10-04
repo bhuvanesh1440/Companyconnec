@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Vortex Dynamics",
+    "industry": "Technology",
+    "location": "San Francisco",
+    "founded": 2018,
+    "employees": 450,
+    "ceo": "Elena Rodriguez",
+    "logoIcon": "Zap",
+    "color": "indigo"
+  },
+  {
+    "id": 2,
+    "name": "Medius Health",
+    "industry": "Healthcare",
+    "location": "New York City",
+    "founded": 2015,
+    "employees": 120,
+    "ceo": "David Chen",
+    "logoIcon": "HeartPulse",
+    "color": "red"
+  },
+  {
+    "id": 3,
+    "name": "Terra Foods Inc.",
+    "industry": "Food & Beverage",
+    "location": "Chicago",
+    "founded": 2010,
+    "employees": 890,
+    "ceo": "Sarah Klein",
+    "logoIcon": "Wheat",
+    "color": "amber"
+  },
+  {
+    "id": 4,
+    "name": "Aether Consult",
+    "industry": "Consulting",
+    "location": "London",
+    "founded": 2021,
+    "employees": 55,
+    "ceo": "Liam O'Connell",
+    "logoIcon": "Briefcase",
+    "color": "blue"
+  },
+  {
+    "id": 5,
+    "name": "Nexus Finance",
+    "industry": "Finance",
+    "location": "Singapore",
+    "founded": 2005,
+    "employees": 1500,
+    "ceo": "Javier Solis",
+    "logoIcon": "Banknote",
+    "color": "green"
+  },
+  {
+    "id": 6,
+    "name": "PixelForge Games",
+    "industry": "Entertainment",
+    "location": "Austin",
+    "founded": 2019,
+    "employees": 75,
+    "ceo": "Maya Singh",
+    "logoIcon": "Gamepad2",
+    "color": "pink"
+  },
+  {
+    "id": 7,
+    "name": "Global Logistics Hub",
+    "industry": "Logistics",
+    "location": "Dubai",
+    "founded": 2008,
+    "employees": 2100,
+    "ceo": "Fahad Al Qubaisi",
+    "logoIcon": "Truck",
+    "color": "gray"
+  },
+  {
+    "id": 8,
+    "name": "EduPro Learning",
+    "industry": "Education",
+    "location": "Toronto",
+    "founded": 2017,
+    "employees": 320,
+    "ceo": "Chloe Dupont",
+    "logoIcon": "GraduationCap",
+    "color": "cyan"
+  },
+  {
+    "id": 9,
+    "name": "EcoBuilders Corp",
+    "industry": "Construction",
+    "location": "Sydney",
+    "founded": 2000,
+    "employees": 600,
+    "ceo": "Ben Carter",
+    "logoIcon": "Hammer",
+    "color": "lime"
+  }
+]
